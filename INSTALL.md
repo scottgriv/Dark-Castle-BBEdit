@@ -2,7 +2,7 @@
 
 ### Install using Git
 
-If you are a git user, you1 can install the theme and keep it up to date by cloning the repo:
+If you are a git user, you can install the theme and keep it up to date by cloning the repo:
 
 ```bash
 git clone https://github.com/scottgriv/Dark-Castle-BBEdit.git
