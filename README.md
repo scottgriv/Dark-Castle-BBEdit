@@ -1,12 +1,11 @@
-<!-- Begin README -->
 <div align="center">
     <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank">
         <img src="./docs/images/icon.png" width="250" height="250"/>
     </a>
 </div>
 <h1 align="center">Dark Castle Theme for     
-    <a href="https://example.com" target="_blank">
-    [Example Platform]
+    <a href="http://www.barebones.com/products/bbedit/" target="_blank">
+    BBEdit
     </a>
 </h1>
 <p align="center">
@@ -45,4 +44,3 @@ Please refer to the [Changelog](.github/CHANGELOG.md) file in this repository fo
 ## License
 
 [MIT License](./LICENSE)
-<!-- End README -->
