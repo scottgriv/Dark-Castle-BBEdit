@@ -19,4 +19,4 @@ Download using the [GitHub .zip download](https://github.com/scottgriv/Dark-Cast
     *   It is usually at `~/Library/Application Support/BBEdit/Color Schemes/`
     *   If you explicitly set it up this way, it may be in your personal Dropbox or iCloud directory
 3. Copy the file `Dark Castle.bbColorScheme` into the `Color Schemes` directory
-4. Go to `BBEdit` -> `Settings` -> `Text Colors` and select `Dark Castle` from the `Color scheme:` drop down menu.
+4. Go to `BBEdit` -> `Settings` -> `Text Colors` and select `Dark Castle` from the `Color scheme:` drop down menu
