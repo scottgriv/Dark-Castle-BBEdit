@@ -1,6 +1,6 @@
-## Dark Castle Theme for [BBEdit](http://www.barebones.com/products/bbedit/)
+### [BBEdit](http://www.barebones.com/products/bbedit/)
 
-### Install using Git
+#### Install using Git
 
 If you are a git user, you can install the theme and keep it up to date by cloning the repo:
 
@@ -8,11 +8,11 @@ If you are a git user, you can install the theme and keep it up to date by cloni
 git clone https://github.com/scottgriv/Dark-Castle-BBEdit.git
 ```
 
-### Install Manually
+#### Install Manually
 
 Download using the [GitHub .zip download](https://github.com/scottgriv/Dark-Castle-BBEdit/archive/main.zip) option and unzip them.
 
-### Activating the Theme
+#### Activating the Theme
 
 1. Unzip the files
 2. Find your `Application Support/BBEdit/Color Schemes/` directory.
