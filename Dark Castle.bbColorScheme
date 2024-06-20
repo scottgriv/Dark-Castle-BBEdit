@@ -81,19 +81,19 @@
 	<key>com.barebones.bblm.keyword-argument-name</key>
 	<string>hsla(0.600, 0.488, 0.988, 1.000)</string>
 	<key>com.barebones.bblm.markdown.Emph</key>
-	<string>hsla(0.991, 0.552, 0.937, 1.000)</string>
+	<string>hsla(0.551, 0.675, 0.929, 1.000)</string>
 	<key>com.barebones.bblm.markdown.HorizontalRule</key>
 	<string>hsla(0.633, 0.711, 0.609, 1.000)</string>
 	<key>com.barebones.bblm.markdown.ImageAltText</key>
-	<string>hsla(0.990, 1.000, 1.000, 1.000)</string>
+	<string>hsla(0.058, 0.749, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.markdown.ImageId</key>
-	<string>hsla(0.517, 1.000, 0.533, 1.000)</string>
+	<string>hsla(0.058, 0.749, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.markdown.InlineCode</key>
-	<string>hsla(0.551, 0.675, 0.929, 1.000)</string>
+	<string>hsla(0.353, 0.963, 0.824, 1.000)</string>
 	<key>com.barebones.bblm.markdown.InlineLinkText</key>
 	<string>hsla(0.057, 0.749, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.markdown.Keyword</key>
-	<string>hsla(0.517, 1.000, 0.533, 1.000)</string>
+	<string>hsla(0.990, 1.000, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.markdown.LinkDefId</key>
 	<string>hsla(0.517, 1.000, 0.533, 1.000)</string>
 	<key>com.barebones.bblm.markdown.LinkDefTitle</key>
@@ -101,13 +101,13 @@
 	<key>com.barebones.bblm.markdown.LinkDefUrl</key>
 	<string>hsla(0.637, 0.745, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.markdown.ListItemMarker</key>
-	<string>hsla(0.990, 1.000, 1.000, 1.000)</string>
+	<string>hsla(0.517, 1.000, 0.533, 1.000)</string>
 	<key>com.barebones.bblm.markdown.Pre</key>
 	<string>hsla(0.237, 0.452, 0.903, 1.000)</string>
 	<key>com.barebones.bblm.markdown.QuoteMarker</key>
-	<string>hsla(0.551, 0.675, 0.929, 1.000)</string>
+	<string>hsla(0.875, 0.841, 0.668, 1.000)</string>
 	<key>com.barebones.bblm.markdown.QuotedContent</key>
-	<string>hsla(0.551, 0.675, 0.929, 1.000)</string>
+	<string>hsla(0.875, 0.841, 0.668, 1.000)</string>
 	<key>com.barebones.bblm.number</key>
 	<string>hsla(0.728, 0.672, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.pdf.array</key>

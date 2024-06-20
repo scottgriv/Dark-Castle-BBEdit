@@ -3,7 +3,7 @@
         <img src="./docs/images/icon.png" width="250" height="250"/>
     </a>
 </div>
-<h1 align="center">Dark Castle Theme for     
+<h1 align="center">Dark Castle Theme     
     <a href="http://www.barebones.com/products/bbedit/" target="_blank">
     BBEdit
     </a>
